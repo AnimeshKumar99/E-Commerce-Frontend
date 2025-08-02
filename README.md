@@ -39,5 +39,5 @@ You can access the live application at [https://e-shopit.vercel.app/](https://e-
 
 ## Backend
 
-The backend of the application is built with NodeJS and ExpressJS and uses a MongoDB database to store the product and user data. The source code for the backend can be found at https://github.com/AnimeshKumar99/E-Commerce-Backend).
+The backend of the application is built with NodeJS and ExpressJS and uses a MongoDB database to store the product and user data. The source code for the backend can be found at [https://github.com/AnimeshKumar99/E-Commerce-Backend](https://github.com/AnimeshKumar99/MERN-E-Commerce-Backend)).
 
